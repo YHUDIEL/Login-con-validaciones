@@ -88,6 +88,12 @@ RECOMENDACIONES
 ✔ Si personalizas colores o imágenes, asegúrate de usar los métodos públicos definidos.
 
 ───────────────────────────────────────────────
+LINKS DE VIDEOS YOUTUBE
+───────────────────────────────────────────────
+✔ Funcinoamiento del componente: https://youtu.be/v8Ug0B_zdIo
+✔ Video de libreria: https://youtu.be/Mm52PnpLf5I
+
+───────────────────────────────────────────────
 CRÉDITOS
 ───────────────────────────────────────────────
 Este proyecto fue desarrollado por Yhudiel Mendoza Sanchez con fines educativos.
